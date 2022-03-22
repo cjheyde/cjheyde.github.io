@@ -19,7 +19,7 @@
 - `SQL`
 - `NoSQL`
 
-## Languages
+#### Languages
 1. Brazilian Portuguese - Native
 2. English - Fluent (mix of US and UK)
 3. Spanish - understand written and spoken, speak Portunhol and cannot write
